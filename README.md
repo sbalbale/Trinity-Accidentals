@@ -1,9 +1,9 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="MATH 231" />
+  <img src="./.github/app.gif" alt="Trinity Accidentals" />
 
   &#xa0;
 
-  <!-- <a href="https://math231.netlify.app">Demo</a> -->
+  <!-- <a href="https://Trinity-Accidentals.netlify.app">Demo</a> -->
 </div>
 
 <h1 align="center">MATH 231</h1>
