@@ -93,7 +93,7 @@ $ npm run dev
 
 ## :memo: License ##
 
-This project is under license from Apache. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from Apache. For more details, see the [LICENSE](LICENSE) file.
 
 
 Made with :heart: by <a href="https://github.com/sbalbale" target="_blank">Sean Balbale</a>
