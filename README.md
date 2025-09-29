@@ -35,13 +35,11 @@ The following tools and technologies were used to build this project:
 -   **[Firebase](https://firebase.google.com/)**: Used for hosting the Next.js application and handling serverless functions for features like mailing list signups.
 -   **[TypeScript](https://www.typescriptlang.org/)**: A statically typed superset of JavaScript that enhances code quality and developer experience.
 
-## :checkered_flag: Getting Started ##
-
-### Requirements
+## :white_check_mark: Requirements ##
 
 Before starting :checkered_flag:, you need to have **[Git](https://git-scm.com)** and **[Node.js](https://nodejs.org/en/)** (v18 or later) installed on your system.
 
-### Installation
+## :checkered_flag: Starting ##
 
 ```bash
 # Clone this project
@@ -57,7 +55,7 @@ $ npm install
 $ npm run dev
 ````
 
-Open [http://localhost:3000](https://www.google.com/search?q=http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## :memo: License
 
