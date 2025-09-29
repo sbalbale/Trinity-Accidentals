@@ -52,8 +52,11 @@ This repository contains the source code for the official website of the Trinity
 ## :sparkles: Features ##
 
 :heavy_check_mark: **Full Content Management:** All site content is managed via a headless CMS.
+
 :heavy_check_mark: **Member & Music Showcase:** Dedicated pages to feature current members, alumni, and the group's discography.
+
 :heavy_check_mark: **Events & Booking:** An integrated events calendar and a streamlined booking form for performances.
+
 :heavy_check_mark: **Responsive Design:** A beautiful and functional interface on both mobile and desktop devices.
 
 
