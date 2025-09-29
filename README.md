@@ -46,44 +46,49 @@
 
 ## :dart: About ##
 
-Describe your project
+This repository contains the source code for the official website of the Trinity College Accidentals. It's built with a modern tech stack to create a fast, engaging, and easy-to-maintain web experience for fans, prospective clients, and potential new members.
+
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: **Full Content Management:** All site content is managed via a headless CMS.
+:heavy_check_mark: **Member & Music Showcase:** Dedicated pages to feature current members, alumni, and the group's discography.
+:heavy_check_mark: **Events & Booking:** An integrated events calendar and a streamlined booking form for performances.
+:heavy_check_mark: **Responsive Design:** A beautiful and functional interface on both mobile and desktop devices.
+
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
+- [Next.js](https://nextjs.org/)
+- [shadcn/ui](https://ui.shadcn.com/)
+- [Strapi](https://strapi.io/)
+- [Firebase](https://firebase.google.com/)
 - [TypeScript](https://www.typescriptlang.org/)
+
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/) (v18 or later) installed.
+
 
 ## :checkered_flag: Starting ##
 
 ```bash
 # Clone this project
-$ git clone https://github.com/sbalbale/Trinity-Accidentals/
+$ git clone [https://github.com/sbalbale/Trinity-Accidentals.git](https://github.com/sbalbale/Trinity-Accidentals.git)
 
-# Access
+# Access the project directory
 $ cd Trinity-Accidentals
 
 # Install dependencies
-$ yarn
+$ npm install
 
 # Run the project
-$ yarn start
+$ npm run dev
 
-# The server will initialize in the <http://localhost:3000>
+# The server will initialize on <http://localhost:3000>
 ```
 
 ## :memo: License ##
