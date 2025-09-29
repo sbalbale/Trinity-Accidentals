@@ -1,12 +1,12 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Trinity Accidentals" />
+  <img src="./.github/app.gif" alt="Trinity-Accidentals" />
 
   &#xa0;
 
   <!-- <a href="https://Trinity-Accidentals.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">MATH 231</h1>
+<h1 align="center">Trinity Accidentals</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/sbalbale/Trinity-Accidentals?color=56BEB8">
